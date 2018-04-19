@@ -11,10 +11,12 @@ h1 {
 border-top: 6px solid red;
 border-right: 6px solid red;
 color: solid purple;
+background-color: #e6ffff;
 }
 .About {
   float: right;
   color: solid purple;
+  background-color: #e6ffff;
 }
 body{
   background-image: url("../images/logo.jpeg");
