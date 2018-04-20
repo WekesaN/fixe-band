@@ -6,18 +6,38 @@ h1 {
   background-color:  solid pink;
   color: orange;
 }
-.sooon {
+.soon {
   float: left;
 border-top: 6px solid red;
 border-right: 6px solid red;
+border-color: #80ffff;
 color: solid purple;
-background-color: #e6ffff;
 }
 .About {
   float: right;
+  padding-top: 0px;
+  padding-right: 12px;
   color: solid purple;
-  background-color: #e6ffff;
+  text-align: center;
+  border-top: 6px solid red;
+  border-left: 6px solid red;
+  border-color: #80ffff;
+}
+.pic{
+  padding-right: 180px;
+}
+.activity{
+  float: left;
+  padding-left: 9s0px;
+  padding-top: 10px;
 }
 body{
-  background-image: url("../images/logo.jpeg");
+  background-image: url("../images/back.jpeg");
+}
+.gallery{
+  float: left;
+  align-items: center;
+  border-top: 6px solid red;
+  border-right: 6px solid red;
+  border-color: #80ffff;
 }
